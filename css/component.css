@@ -11,8 +11,8 @@ html, body,
 .cbp-fbscroller > nav {
 	position: fixed;
 	z-index: 9999;
-	left: 40px;
-	top: 218px;
+	left: 25px;
+	top: 230px;
 	-webkit-transform: translateY(-50%);
 	-moz-transform: translateY(-50%);
 	-ms-transform: translateY(-50%);
@@ -50,20 +50,9 @@ html, body,
 	background-attachment: fixed;
 }
 
-#fbsection1 {
+#fbsection1,#fbsection2,#fbsection3,#fbsection4 {
 	background-image: url(../images/background.jpg);
+	font-family:Arial;
+	color:black;
+	text-align: center;
 }
-
-#fbsection2 {
-	background-image: url(../images/background.jpg);
-}
-
-#fbsection3 {
-	background-image: url(../images/background.jpg);
-}
-
-#fbsection4 {
-	background-image: url(../images/background.jpg);
-}
-
-

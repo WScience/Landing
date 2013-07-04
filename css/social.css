@@ -14,9 +14,8 @@
 /* SOCIAL ICONS - GENERAL */
 .social { list-style:none; margin:5px 0px;  }
 .social li { float:left; background-repeat:no-repeat; }
-.social li a { display:block; width:30px;
-			height:24px; text-decoration:none; }
+.social li a { display:block; width:30px; height:24px; text-decoration:none; }
 
-li.facebook { background-image:url("../images/fb.gif");}
-li.linkedin { background-image:url("../images/in.gif");}
-li.twitter { background-image:url("../images/tw.gif");}
+li.facebook { background-image:url("../images/fb.gif");float: left;}
+li.linkedin { background-image:url("../images/in.gif");float: left;}
+li.twitter { background-image:url("../images/tw.gif");float: left;}
