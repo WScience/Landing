@@ -29,11 +29,11 @@
 	z-index: 9000;
 	position: fixed;
 	top: 370px;
-	left: 3%;
+	left: 2%;
     display: block;
 	float:left;
 	font-family:Arial;
-	font-size: 1.4em;
+	font-size: 1.5em;
 	color:black;
 	text-align: center;	
 }
@@ -97,7 +97,7 @@ vertical-align: top;
 /*Images*/
 #supers {
 	top: 80px;
-	left: -25px;
+	left: -15px;
 	position: absolute;
 }
 
