@@ -62,7 +62,7 @@ vertical-align: top;
 #txt_uns{
 	position: relative;
 	top: -315px;
-	left: 210px;
+	left: 180px;
 	display: block;
 	font-family:Arial;
 	font-size: 0.8em;
@@ -82,7 +82,7 @@ vertical-align: top;
 }
 
 #h2{
-		font-size: 1.5em;
+		font-size: 1.2em;
 }
 
 #impressum{
